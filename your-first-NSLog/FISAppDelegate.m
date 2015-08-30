@@ -19,6 +19,7 @@
 
     // HEY!
     
+    NSLog(@"Hello Beautiful!");
     // write your code here! :D
     
     return YES; // except don't touch this line
